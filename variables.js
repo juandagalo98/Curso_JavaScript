@@ -1,6 +1,6 @@
 userName = "David";
 userSurname = 'Gamboa';
-userTitle = 'Professor';
+userTitle = 'IT';
 
 console.log(userName);
 console.log(userSurname);
