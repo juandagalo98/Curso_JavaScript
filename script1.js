@@ -1,0 +1,1 @@
+console.log("Hellow World 1 (archivo separado")
